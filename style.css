@@ -1,0 +1,18 @@
+/* Base Background */
+body {
+    background-color: #0f172a;
+    color: #e2e8f0;
+}
+
+/* Custom Text Gradient for "Worlds & Systems" */
+.gradient-text {
+    background: linear-gradient(to right, #00f3ff, #bc13fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Card Hover Animation (Glow Effect) */
+.card-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px -10px rgba(188, 19, 254, 0.3);
+}

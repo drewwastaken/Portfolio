@@ -1,7 +1,7 @@
 # DREW
 
 ## Overview
-This is a personal portfolio website designed with a **Sci-Fi / RPG / Terminal aesthetic**. It features a "HUD" (Heads-Up Display) interface that organizes my work into "Quests" (Projects) and "Abilities" (Skills).
+This is a personal portfolio website designed with a **Sci-Fi aesthetic**. It features a "HUD" (Heads-Up Display) interface that organizes my work into "Quests" (Projects) and Abilities.
 
 The design is fully responsive and uses a single-page layout with dynamic filtering for project categories.
 
@@ -37,7 +37,7 @@ To ensure the site looks correct, the root folder must contain the following ima
     * Primary Accent: `hud-accent` (#00ff41)
     * Background: `hud-black` (#050505)
     * 
-## 👤 Author
+## Author
 **Nicholas Andrew Alcantara**
 * BS Information Technology Student @ TUP Manila
 * [LinkedIn](https://linkedin.com/in/drew-alcantara)
